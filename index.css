@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+#name-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 2rem;
+  text-align: center;
+}
+
+#loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#loading-screen.d-none {
+  display: none;
+}
+
+.spinner {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#pagination {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+@media (max-width: 600px) {
+  .card {
+    padding: 1rem;
+  }
+
+  #pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+  }
+}
