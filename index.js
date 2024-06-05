@@ -7,16 +7,7 @@ const questions = [];
 let ratings = {};
 let userName = '';
 
-// Function to change the number of questions displayed per page
-function setCardsPerPage(newCount) {
-  cardsPerPage = parseInt(newCount, 10);
-  totalPages = Math.ceil(totalCards / cardsPerPage);
-  displayPage(1); // Reset to the first page with the new count
-}
 
-document.getElementById('cards-per-page').addEventListener('change', function() {
-  setCardsPerPage(this.value);
-});
 
 // Add Event Listeners for Quiz Start, Pagination, and Keyboard Input
 document.getElementById('start-button').addEventListener('click', startQuiz);
