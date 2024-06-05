@@ -17,12 +17,28 @@ body {
 
 .card {
   background: white;
+  border-radius: 2em;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+  margin: 5%;
+  padding: 5%;
+  max-width: 75vw;
+  width: calc(100% / 3 - 10%); /* Adjust based on cards per row */
+  text-align: center;
+  display: inline-block; /* or flex, depending on layout */
+}
+
+.card {
+  background: white;
   border-radius: 8px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  margin: 20px;
+  margin: 2rem;
   padding: 2rem;
+  max-width: 600px;
+  width: calc(100% / 3 - 4rem); /* Adjust based on cards per row */
   text-align: center;
+  display: inline-block; /* or flex, depending on layout */
 }
+
 
 #loading-screen {
   position: fixed;

@@ -1,11 +1,10 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 
 const app = express();
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(cookieParser());
 
 const folderPath = path.join(__dirname, 'json');  // Use a relative path
@@ -34,6 +33,7 @@ app.get('/json/:filename', (req, res) => {
 
 app.post('/json/:filename', (req, res) => {
   const jsonFile = path.join(folderPath, req.params.filename);
+  console.log(req.body);
   fs.writeFile(jsonFile, JSON.stringify(req.body, null, 2), 'utf8', err => {
     if (err) {
       res.status(500).send(err);

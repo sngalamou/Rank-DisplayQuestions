@@ -1,212 +1,152 @@
+// Global variables
 let currentPage = 1;
-const cardsPerPage = 1;
+const cardsPerPage = 3;
 let totalCards = 0;
 let totalPages = 0;
-let questions = [];
+const questions = [];
 let ratings = {};
 let userName = '';
 
-document.getElementById('start-button').addEventListener('click', function() {
-  userName = document.getElementById('user-name').value;
-  if (userName) {
-    document.getElementById('name-container').classList.add('d-none');
-    document.getElementById('quiz-container').classList.remove('d-none');
-    loadJsonFiles();
-  } else {
-    alert('Please enter your name.');
-  }
+// Function to change the number of questions displayed per page
+function setCardsPerPage(newCount) {
+  cardsPerPage = parseInt(newCount, 10);
+  totalPages = Math.ceil(totalCards / cardsPerPage);
+  displayPage(1); // Reset to the first page with the new count
+}
+
+document.getElementById('cards-per-page').addEventListener('change', function() {
+  setCardsPerPage(this.value);
 });
 
-document.getElementById('prev-button').addEventListener('click', () => {
-  if (currentPage > 1) {
-    displayPage(currentPage - 1);
-  }
+// Add Event Listeners for Quiz Start, Pagination, and Keyboard Input
+document.getElementById('start-button').addEventListener('click', startQuiz);
+document.getElementById('user-name').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+        e.preventDefault();
+        startQuiz();
+    }
 });
+document.getElementById('prev-button').addEventListener('click', () => changePage(-1));
+document.getElementById('next-button').addEventListener('click', () => changePage(1));
 
-document.getElementById('next-button').addEventListener('click', () => {
-  if (currentPage < totalPages) {
-    displayPage(currentPage + 1);
-  }
-});
+function startQuiz() {
+    userName = document.getElementById('user-name').value;
+    if (userName) {
+        console.log('Starting quiz for user:', userName);
+        document.getElementById('name-container').classList.add('d-none');
+        document.getElementById('quiz-container').classList.remove('d-none');
+        loadJsonFiles();
+    } else {
+        alert('Please enter your name.');
+    }
+}
+
+function changePage(delta) {
+    const newPage = currentPage + delta;
+    if (newPage > 0 && newPage <= totalPages) {
+        displayPage(newPage);
+    }
+}
 
 function loadJsonFiles() {
-  document.getElementById('loading-screen').classList.remove('d-none');
+    console.log('Loading JSON files...');
+    document.getElementById('loading-screen').classList.remove('d-none');
 
-  fetch('/json')
-    .then(response => response.json())
-    .then(jsonFiles => {
-      const loadFilePromises = jsonFiles.map(file => fetch(`/json/${file}`).then(res => res.json()));
-      
-      Promise.all(loadFilePromises)
+    fetch('/json')
+        .then(response => response.json())
+        .then(jsonFiles => {
+            const loadFilePromises = jsonFiles.map(file => fetch(`/json/${file}`).then(res => res.json()));
+            return Promise.all(loadFilePromises);
+        })
         .then(filesContent => {
-          questions = [];
-          filesContent.forEach(fileContent => {
-            // Check for different types of questions and normalize the format
-            if (fileContent['True/False Questions']) {
-              fileContent['True/False Questions'].forEach(q => {
-                questions.push({
-                  type: 'True/False',
-                  question: q.question,
-                  responses: ['True', 'False'],
-                  file: fileContent.file
-                });
-              });
-            } else if (fileContent['Multiple Choice Questions']) {
-              fileContent['Multiple Choice Questions'].forEach(q => {
-                questions.push({
-                  type: 'Multiple Choice',
-                  question: q.question,
-                  responses: q.responses || ['Option 1', 'Option 2', 'Option 3', 'Option 4'],
-                  file: fileContent.file
-                });
-              });
-            } else if (fileContent.questions) {
-              fileContent.questions.forEach(q => {
-                questions.push({
-                  ...q,
-                  file: fileContent.file
-                });
-              });
-            } else if (fileContent['Matrix Order']) {
-              fileContent['Matrix Order'].forEach(q => {
-                questions.push({
-                  type: 'Matrix Table',
-                  question: q.question,
-                  responses: q.responses,
-                  items: q.items,
-                  file: fileContent.file
-                });
-              });
-            } else if (fileContent['Rank Order']) {
-              fileContent['Rank Order'].forEach(q => {
-                questions.push({
-                  type: 'Rank Order',
-                  question: q.question,
-                  responses: q.responses,
-                  file: fileContent.file
-                });
-              });
-            } else {
-              console.warn(`File content does not match expected format:`, fileContent);
-            }
-          });
-
-          totalCards = questions.length;
-          totalPages = Math.ceil(totalCards / cardsPerPage);
-          displayPage(1);
-          document.getElementById('loading-screen').classList.add('d-none');
+            questions.push(...filesContent.flatMap(fileContent => parseQuestions(fileContent)));
+            totalCards = questions.length;
+            totalPages = Math.ceil(totalCards / cardsPerPage);
+            displayPage(1);
         })
         .catch(error => {
-          console.error('Error loading JSON files:', error);
-          document.getElementById('loading-screen').classList.add('d-none');
+            console.error('Error loading JSON files:', error);
+            document.getElementById('loading-screen').classList.add('d-none');
+        })
+        .finally(() => {
+            document.getElementById('loading-screen').classList.add('d-none');
         });
+}
+
+function parseQuestions(fileContent) {
+    const parsedQuestions = [];
+    ['True/False Questions', 'Yes/No Questions', 'Multiple Choice Questions', 'Matrix Order', 'Rank Order', 'Rating Scale Questions'].forEach(type => {
+        if (fileContent[type]) {
+            fileContent[type].forEach(q => {
+                const items = type === 'Matrix Order' || type === 'Rank Order' ? q.items : [];
+                const responses = type === 'Rating Scale Questions' ? Array.from({length: 10}, (_, i) => (i + 1).toString()) : q.responses || ['True', 'False'];
+                addQuestion(type.replace(/ Questions| Order/g, ''), q.question, responses, items, fileContent.file);
+            });
+        }
     });
+    return parsedQuestions;
+}
+
+function addQuestion(questionType, question, responses, items, file) {
+    questions.push({ type: questionType, question, responses, items, file });
 }
 
 function displayPage(page) {
-  currentPage = page;
-  const startIndex = (currentPage - 1) * cardsPerPage;
-  const endIndex = Math.min(startIndex + cardsPerPage, totalCards);
-  document.getElementById('questionnaire-container').innerHTML = '';
+    console.log('Displaying page:', page);
+    currentPage = page;
+    const startIndex = (currentPage - 1) * cardsPerPage;
+    const endIndex = Math.min(startIndex + cardsPerPage, totalCards);
+    const questionnaireContainer = document.getElementById('questionnaire-container');
+    questionnaireContainer.innerHTML = '';
 
-  for (let i = startIndex; i < endIndex; i++) {
-    const question = questions[i];
-    const card = document.createElement('div');
-    card.className = 'col-12 col-md-6 col-lg-4 card';
-    let content = `
-      <h2>Type: ${question.type}</h2>
-      <p>Question: ${question.question}</p>
-    `;
-
-    if (question.responses) {
-      content += `<p>Responses: ${question.responses.join(', ')}</p>`;
+    for (let i = startIndex; i < endIndex; i++) {
+        const question = questions[i];
+        const card = document.createElement('div');
+        card.className = 'card';
+        let content = `
+            <h2>Type: ${question.type}</h2>
+            <p>Question: ${question.question}</p>
+            <p>Responses: ${question.responses.join(', ')}</p>
+            ${question.items.length ? `<p>Items: ${question.items.join(', ')}</p>` : ''}
+            <div class="rating" data-question="${i}">
+                ${[...Array(5)].map((_, i) => `<span class="star" data-value="${i + 1}">&#9733;</span>`).join('')}
+            </div>
+        `;
+        card.innerHTML = content;
+        questionnaireContainer.appendChild(card);
     }
+    updatePaginationControls();
+}
 
-    if (question.items) {
-      content += `<p>Items: ${question.items.join(', ')}</p>`;
-    }
-
-    content += `
-      <div class="rating" data-question="${i}">
-        <span class="star" data-value="1">&#9733;</span>
-        <span class="star" data-value="2">&#9733;</span>
-        <span class="star" data-value="3">&#9733;</span>
-        <span class="star" data-value="4">&#9733;</span>
-        <span class="star" data-value="5">&#9733;</span>
-      </div>
-    `;
-
-    card.innerHTML = content;
-    document.getElementById('questionnaire-container').appendChild(card);
-
-    // Apply existing rating if available
-    const currentRating = ratings[i];
-    if (currentRating) {
-      document.querySelectorAll(`[data-question="${i}"] .star`).forEach(star => {
-        if (star.dataset.value <= currentRating) {
-          star.classList.add('selected');
-        }
-      });
-    }
-  }
-
-  document.querySelectorAll('.rating').forEach(rating => {
-    rating.addEventListener('click', (e) => {
-      if (e.target.classList.contains('star')) {
+function handleRatingClick(e) {
+    if (e.target.classList.contains('star')) {
         const value = e.target.dataset.value;
-        const questionIndex = rating.dataset.question;
+        const questionIndex = e.target.parentElement.dataset.question;
         const currentRating = ratings[questionIndex];
-
         if (currentRating === value) {
-          delete ratings[questionIndex];
-          rating.querySelectorAll('.star').forEach(star => star.classList.remove('selected'));
+            delete ratings[questionIndex];
+            e.target.parentElement.querySelectorAll('.star').forEach(star => star.classList.remove('selected'));
         } else {
-          ratings[questionIndex] = value;
-          rating.querySelectorAll('.star').forEach(star => {
-            star.classList.remove('selected');
-            if (star.dataset.value <= value) {
-              star.classList.add('selected');
-            }
-          });
+            ratings[questionIndex] = value;
+            e.target.parentElement.querySelectorAll('.star').forEach(star => {
+                star.classList.remove('selected');
+                if (star.dataset.value <= value) {
+                    star.classList.add('selected');
+                }
+            });
         }
         saveRatings(questionIndex, value);
-      }
-    });
-  });
-
-  updatePaginationControls();
+    }
 }
 
 function saveRatings(questionIndex, value) {
-  const question = questions[questionIndex];
-  const file = question.file;
-  
-  fetch(`/json/${file}`)
-    .then(response => response.json())
-    .then(data => {
-      if (!data.ratings) {
-        data.ratings = [];
-      }
-      data.ratings[questionIndex] = value;
-      return fetch(`/json/${file}`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(data)
-      });
-    })
-    .then(response => response.json())
-    .then(data => {
-      console.log('Rating saved:', data);
-    })
-    .catch(error => {
-      console.error('Error saving rating:', error);
-    });
+    console.log('Saving rating. Question:', questionIndex, 'Value:', value);
+    ratings[questionIndex] = value;
+    localStorage.setItem('ratings', JSON.stringify(ratings));
 }
 
 function updatePaginationControls() {
-  document.getElementById('prev-button').disabled = currentPage === 1;
-  document.getElementById('next-button').disabled = currentPage === totalPages;
-  document.getElementById('page-info').textContent = `Page ${currentPage} of ${totalPages}`;
+    document.getElementById('prev-button').disabled = currentPage === 1;
+    document.getElementById('next-button').disabled = currentPage === totalPages;
+    document.getElementById('page-info').textContent = `Page ${currentPage} of ${totalPages}`;
 }
