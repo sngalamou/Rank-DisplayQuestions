@@ -1,0 +1,859 @@
+{
+    "Unknown questions":[        
+        {
+            "type": "Unknown",
+            "question": "I like to create personalized gifts for my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic expressions from most to least appreciated: physical touch, words of affirmation, acts of service, giving gifts.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much effort do you put into keeping the romance alive?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What kind of romantic evening do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy spending quality time with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think romantic gestures should be frequent in a relationship?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to make time for romance.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to have romantic rituals.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What kind of romantic surprise do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think romantic words are important?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these places do you find most romantic?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to plan romantic dates.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to show affection?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I feel happy when my partner does something romantic for me.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic activities from most to least enjoyable: candlelit dinners, romantic walks, couples massages, watching the sunset.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in the importance of saying 'I love you' often.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to surprise my partner with romantic notes.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy listening to romantic music with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe that small romantic gestures are important.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic gestures from most to least romantic: planning a surprise date, writing a love letter, giving a thoughtful gift, saying 'I love you'.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic dessert?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to show affection in public.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic getaways from most to least appealing: beach vacation, mountain retreat, city tour, countryside stay.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy romantic evenings with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic drink?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to celebrate love?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy giving my partner thoughtful compliments.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What kind of romantic getaway do you dream of?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think romance should be a regular part of your life?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy decorating our living space with romantic elements.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic getaways from most to least appealing: a tropical island, a European city, a mountain retreat, a countryside cottage.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in showing my partner how much I care through romantic gestures.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning romantic trips.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic activities do you find most enjoyable?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic expressions from most to least appreciated: verbal affirmations, physical touch, acts of service, receiving gifts.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning romantic dinners for my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy sharing romantic experiences with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in the magic of romantic moments.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning romantic dinners for your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to plan romantic weekends away.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic songs do you find most touching?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you appreciate romantic gifts?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in celebrating Valentine's Day with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think it's important to keep the romance alive?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy listening to romantic music with your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic flower?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic activities from most to least enjoyable: stargazing, candlelight dinner, picnic, cooking together.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning romantic surprises for my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in the power of romantic words.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy spending quality time with your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in expressing love through physical touch?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning surprise dates for your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to surprise my partner with romantic gestures.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you plan romantic dates?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you prefer romantic getaways over regular vacations?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you enjoy celebrating anniversaries?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how important are romantic gestures to you?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic movies do you enjoy the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic movie?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe romance is essential in a relationship.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy romantic movie nights with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I often express my love through small gestures.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how romantic do you consider your partner to be?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think romance is an important part of a healthy relationship?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to create romantic experiences for my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic poems do you like the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in the importance of quality time together.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in celebrating special occasions with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to keep the romance alive.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you like to create personalized gifts for your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic gesture?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic gifts from most to least meaningful: love letters, personalized gifts, jewelry, flowers.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy doing romantic things for my partner just because.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning special surprises for your partner on their birthday?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy spontaneous romantic activities.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in celebrating Valentine's Day with your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in showing your partner how much you care through romantic gestures?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in surprising my partner with thoughtful gifts.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy receiving romantic gestures from my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you think about romantic gestures?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to celebrate an anniversary?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic books do you like the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning romantic getaways?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning romantic weekends away?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of the following romantic gestures do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to express love through words.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning romantic weekends away.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you plan romantic surprises?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in the power of romantic words?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think it's important to express love through words?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think expressing love through gifts is important?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to plan romantic getaways.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think romantic words are important.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning romantic evenings.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I appreciate when my partner remembers small details about me.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic gestures do you like the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy celebrating our love with special gestures.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in love at first sight?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think romantic gestures should be frequent in a relationship.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how romantic do you think your partner is?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in celebrating our relationship with romantic gestures.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic meal?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in love notes.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy romantic movie nights with your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe that small romantic gestures are important?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy giving your partner thoughtful compliments?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in surprising your partner with romantic activities?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think anniversaries should be celebrated with special activities.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy planning romantic trips?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy celebrating Valentine's Day with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you enjoy romantic surprises?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic songs do you like the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic quotes do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you think about romance?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe small romantic gestures are more meaningful than grand ones?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in the importance of saying 'I love you' often?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your ideal romantic evening?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic moment?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you like to create romantic experiences for your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic gestures do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much effort do you think your partner puts into romance?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to surprise my partner with thoughtful gifts.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy doing romantic things for your partner just because?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think it's important to make time for romance?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in the importance of quality time together?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think it's important to create romantic memories.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in surprising your partner with thoughtful gifts?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic gifts from most to least meaningful: a handwritten love letter, a surprise date, unexpected flowers, a small thoughtful gift.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you like to plan romantic dates?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy celebrating your love with special gestures?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much effort do you put into planning romantic activities?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in surprising my partner with romantic activities.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic activities do you prefer?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how important are romantic words to you?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic gestures from most to least romantic: giving flowers, cooking a meal, writing a poem, planning a surprise trip.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to show love?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic activities do you enjoy the most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy going on romantic dates with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you think about romantic gestures for your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in love notes?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy romantic surprises from your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you appreciate romantic gestures from your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in the magic of romantic moments?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think it's important to show affection in public?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think romance is an important part of a healthy relationship.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I think romance should be a regular part of our lives.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy preparing romantic dinners for my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic activities do you enjoy most?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you think it's important to create romantic memories?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic cities would you like to visit?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Which of these romantic activities do you find most meaningful?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you enjoy giving romantic gifts?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you enjoy romantic evenings with your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to spend a romantic evening?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite way to celebrate Valentine's Day?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy romantic surprises from my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how important are romantic dates to you?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I like to spend quality time with my partner doing romantic activities.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "What is your favorite romantic holiday destination?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy planning special surprises for my partner on their birthday.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I believe in expressing love through physical touch.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic activities from most to least enjoyable: stargazing, watching the sunset, having a picnic, taking a walk.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how romantic do you consider your partner?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy romantic walks with my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Do you believe in celebrating our relationship with romantic gestures?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how romantic do you think your relationship is?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic activities from most to least enjoyable: dancing together, watching a romantic movie, having a candlelit dinner, going for a walk.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "Rank the following romantic gestures from most to least romantic: giving flowers, cooking a meal, writing a love note, planning a surprise trip.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "I enjoy writing love letters to my partner.",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how much do you enjoy planning romantic getaways?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        },
+        {
+            "type": "Unknown",
+            "question": "On a scale from 1 to 10, how often do you engage in romantic activities?",
+            "weight": "",  "weights": {"ignoreWeight": "defaultWeightValue", "HRweight": "HRweightValue", "LLweight": "LLweightValue", "RTweight": "RTweightValue"}
+        }
+    ]
+}

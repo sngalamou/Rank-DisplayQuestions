@@ -21,24 +21,32 @@ body {
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
   margin: 5%;
   padding: 5%;
-  max-width: 75vw;
-  width: calc(100% / 3 - 10%); /* Adjust based on cards per row */
+  max-width: 85vw;
+  width: calc(100% / 3 + 4%); /* Adjust based on cards per row */
   text-align: center;
   display: inline-block; /* or flex, depending on layout */
 }
 
-.card {
-  background: white;
-  border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  margin: 2rem;
-  padding: 2rem;
-  max-width: 600px;
-  width: calc(100% / 3 - 4rem); /* Adjust based on cards per row */
-  text-align: center;
-  display: inline-block; /* or flex, depending on layout */
+.rating {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
 }
 
+.star {
+  font-size: 2rem;
+  cursor: pointer;
+  margin: 0 0.2rem;
+}
+
+.star:hover,
+.star.selected  {
+  color: gold;
+}
+
+.star:hover ~ .star {
+  color: black;
+}
 
 #loading-screen {
   position: fixed;
@@ -85,4 +93,114 @@ body {
     margin: 0 5px;
     padding: 5px 10px;
   }
+}
+
+.form-group {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+#cards-per-page {
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem 0;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 10px 0;
+  width: 100%;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 12.8px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  background: #B0C4DE;
+  border-radius: 25px;
+  border: 0px solid #000101;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 39px;
+  border-radius: 7px;
+  background: #333;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -3.6px;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #B0C4DE;
+}
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 12.8px;
+  cursor: pointer;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  background: #B0C4DE;
+  border-radius: 25px;
+  border: 0px solid #000101;
+}
+
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 39px;
+  border-radius: 7px;
+  background: #333;
+  cursor: pointer;
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 12.8px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  border-width: 39px 0;
+  color: transparent;
+}
+
+input[type=range]::-ms-fill-lower {
+  background: #B0C4DE;
+  border: 0px solid #000101;
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+}
+
+input[type=range]::-ms-fill-upper {
+  background: #B0C4DE;
+  border: 0px solid #000101;
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+}
+
+input[type=range]::-ms-thumb {
+  box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 39px;
+  border-radius: 7px;
+  background: #333;
+  cursor: pointer;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+  background: #B0C4DE;
+}
+
+input[type=range]:focus::-ms-fill-upper {
+  background: #B0C4DE;
 }

@@ -9,8 +9,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in celebrating special occasions with my partner.",
@@ -20,8 +20,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I often express my love through small gestures.",
@@ -31,8 +31,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy spontaneous romantic activities.",
@@ -42,8 +42,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe romance is essential in a relationship.",
@@ -53,8 +53,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to surprise my partner with thoughtful gifts.",
@@ -64,8 +64,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in love at first sight.",
@@ -75,8 +75,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy writing love letters to my partner.",
@@ -86,8 +86,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think romantic gestures should be frequent in a relationship.",
@@ -97,8 +97,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to plan romantic getaways.",
@@ -108,8 +108,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy receiving romantic gestures from my partner.",
@@ -119,8 +119,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I feel happy when my partner does something romantic for me.",
@@ -130,8 +130,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think anniversaries should be celebrated with special activities.",
@@ -141,8 +141,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy preparing romantic dinners for my partner.",
@@ -152,8 +152,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I appreciate when my partner remembers small details about me.",
@@ -163,8 +163,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to show affection in public.",
@@ -174,8 +174,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to spend quality time with my partner doing romantic activities.",
@@ -185,8 +185,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy planning special surprises for my partner on their birthday.",
@@ -196,8 +196,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to express love through words.",
@@ -207,8 +207,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy romantic walks with my partner.",
@@ -218,8 +218,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in expressing love through physical touch.",
@@ -229,8 +229,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to create personalized gifts for my partner.",
@@ -240,8 +240,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy romantic movie nights with my partner.",
@@ -251,8 +251,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think romance is an important part of a healthy relationship.",
@@ -262,8 +262,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy going on romantic dates with my partner.",
@@ -273,8 +273,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to surprise my partner with romantic gestures.",
@@ -284,8 +284,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in the importance of saying 'I love you' often.",
@@ -295,8 +295,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy decorating our living space with romantic elements.",
@@ -306,8 +306,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to have romantic rituals.",
@@ -317,8 +317,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy celebrating Valentine's Day with my partner.",
@@ -328,8 +328,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in the power of romantic words.",
@@ -339,8 +339,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to plan romantic dates.",
@@ -350,8 +350,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy listening to romantic music with my partner.",
@@ -361,8 +361,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to make time for romance.",
@@ -372,8 +372,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy giving my partner thoughtful compliments.",
@@ -383,8 +383,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to create romantic experiences for my partner.",
@@ -394,8 +394,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in the magic of romantic moments.",
@@ -405,8 +405,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy planning romantic trips.",
@@ -416,8 +416,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to keep the romance alive.",
@@ -427,8 +427,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy doing romantic things for my partner just because.",
@@ -438,8 +438,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in celebrating our relationship with romantic gestures.",
@@ -449,8 +449,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to plan romantic weekends away.",
@@ -460,8 +460,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy sharing romantic experiences with my partner.",
@@ -471,8 +471,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe that small romantic gestures are important.",
@@ -482,8 +482,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I like to surprise my partner with romantic notes.",
@@ -493,8 +493,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I think it's important to create romantic memories.",
@@ -504,8 +504,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I enjoy planning romantic evenings.",
@@ -515,8 +515,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Likert Scale",
       "question": "I believe in showing my partner how much I care through romantic gestures.",
@@ -526,8 +526,8 @@
         "Neutral",
         "Agree",
         "Strongly agree"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of the following activities would you consider the most romantic for a date night?",
@@ -536,8 +536,8 @@
         "Stargazing",
         "Picnic in the park",
         "Cooking together at home"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What type of gift do you find most romantic?",
@@ -546,8 +546,8 @@
         "Love letters",
         "Personalized gifts",
         "Jewelry"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of the following would you prefer for a romantic getaway?",
@@ -556,8 +556,8 @@
         "Mountain retreat",
         "City tour",
         "Countryside stay"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What kind of music do you find most romantic?",
@@ -566,8 +566,8 @@
         "Jazz",
         "R&B",
         "Pop"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic movies do you like the most?",
@@ -576,8 +576,8 @@
         "Pride and Prejudice",
         "La La Land",
         "Titanic"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of the following romantic gestures do you prefer?",
@@ -586,8 +586,8 @@
         "Romantic dinner",
         "Handwritten note",
         "Weekend getaway"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to celebrate an anniversary?",
@@ -596,8 +596,8 @@
         "A surprise trip",
         "Exchanging gifts",
         "Spending a quiet evening together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these places do you find most romantic?",
@@ -606,8 +606,8 @@
         "A mountain cabin",
         "A city rooftop",
         "A countryside inn"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your ideal romantic evening?",
@@ -616,8 +616,8 @@
         "Watching the stars",
         "A walk on the beach",
         "Cooking together at home"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic activities do you enjoy the most?",
@@ -626,8 +626,8 @@
         "Watching a romantic movie",
         "Writing love notes",
         "Planning surprises"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What kind of romantic surprise do you prefer?",
@@ -636,8 +636,8 @@
         "A surprise date",
         "Unexpected flowers",
         "A small thoughtful gift"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic songs do you like the most?",
@@ -646,8 +646,8 @@
         "Unchained Melody by The Righteous Brothers",
         "At Last by Etta James",
         "Something by The Beatles"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic meal?",
@@ -656,8 +656,8 @@
         "Sushi night",
         "Home-cooked comfort food",
         "Fancy steak dinner"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What kind of romantic getaway do you dream of?",
@@ -666,8 +666,8 @@
         "A European city",
         "A mountain retreat",
         "A countryside cottage"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic movies do you enjoy the most?",
@@ -676,8 +676,8 @@
         "The Princess Bride",
         "Romeo + Juliet",
         "Pretty Woman"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to show affection?",
@@ -686,8 +686,8 @@
         "Words of affirmation",
         "Acts of service",
         "Giving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What kind of romantic evening do you prefer?",
@@ -696,8 +696,8 @@
         "A quiet evening at home",
         "An adventurous outing",
         "A night spent dancing"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic books do you like the most?",
@@ -706,8 +706,8 @@
         "The Time Traveler's Wife by Audrey Niffenegger",
         "Outlander by Diana Gabaldon",
         "The Fault in Our Stars by John Green"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to celebrate Valentine's Day?",
@@ -716,8 +716,8 @@
         "A surprise gift",
         "Spending quality time together",
         "A fun outing"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic quotes do you prefer?",
@@ -726,8 +726,8 @@
         "'I wish I knew how to quit you.'",
         "'To me, you are perfect.'",
         "'I'll never let go.'"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic holiday destination?",
@@ -736,8 +736,8 @@
         "Venice, Italy",
         "Santorini, Greece",
         "Kyoto, Japan"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic poems do you like the most?",
@@ -746,8 +746,8 @@
         "How Do I Love Thee by Elizabeth Barrett Browning",
         "Annabel Lee by Edgar Allan Poe",
         "She Walks in Beauty by Lord Byron"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic flower?",
@@ -756,8 +756,8 @@
         "Lilies",
         "Tulips",
         "Orchids"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic cities would you like to visit?",
@@ -766,8 +766,8 @@
         "Prague, Czech Republic",
         "Vienna, Austria",
         "Budapest, Hungary"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic dessert?",
@@ -776,8 +776,8 @@
         "Tiramisu",
         "Crème brûlée",
         "Cheesecake"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic songs do you find most touching?",
@@ -786,8 +786,8 @@
         "Endless Love by Diana Ross and Lionel Richie",
         "Just the Way You Are by Billy Joel",
         "All of Me by John Legend"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic drink?",
@@ -796,8 +796,8 @@
         "Red wine",
         "Mojito",
         "Martini"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic activities do you find most enjoyable?",
@@ -806,8 +806,8 @@
         "Dancing in the living room",
         "Stargazing",
         "Going on a spontaneous adventure"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic gesture?",
@@ -816,8 +816,8 @@
         "A surprise date",
         "Unexpected flowers",
         "A small thoughtful gift"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic activities do you enjoy most?",
@@ -826,8 +826,8 @@
         "Romantic walks",
         "Couples massages",
         "Watching sunsets"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic moment?",
@@ -836,8 +836,8 @@
         "Saying 'I love you'",
         "Getting engaged",
         "Your wedding day"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic gestures do you prefer?",
@@ -846,8 +846,8 @@
         "Planning surprise dates",
         "Giving thoughtful gifts",
         "Spending quality time together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to celebrate love?",
@@ -856,8 +856,8 @@
         "By giving gifts",
         "With a surprise trip",
         "By spending quality time together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic activities do you find most meaningful?",
@@ -866,8 +866,8 @@
         "Romantic walks",
         "Watching sunsets",
         "Listening to romantic music together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic quote?",
@@ -876,8 +876,8 @@
         "'I love you not only for what you are, but for what I am when I am with you.'",
         "'To love and be loved is to feel the sun from both sides.'",
         "'Love is not finding someone to live with, it's finding someone you can't live without.'"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to show love?",
@@ -886,8 +886,8 @@
         "Through actions",
         "Through touch",
         "Through gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic gestures do you like the most?",
@@ -896,8 +896,8 @@
         "Handwritten notes",
         "Romantic dinners",
         "Weekend getaways"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite romantic movie?",
@@ -906,8 +906,8 @@
         "Pride and Prejudice",
         "La La Land",
         "Titanic"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "Which of these romantic activities do you prefer?",
@@ -916,8 +916,8 @@
         "Candlelight dinner",
         "Picnic",
         "Cooking together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Multiple Choice",
       "question": "What is your favorite way to spend a romantic evening?",
@@ -926,8 +926,8 @@
         "Having a candlelit dinner",
         "Going for a walk",
         "Cooking together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you consider yourself?",
@@ -942,8 +942,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how important is romance in your relationship?",
@@ -958,8 +958,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you plan romantic activities?",
@@ -974,8 +974,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy receiving romantic gestures?",
@@ -990,8 +990,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much effort do you put into keeping romance alive in your relationship?",
@@ -1006,8 +1006,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you think about romantic gestures for your partner?",
@@ -1022,8 +1022,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy planning romantic surprises?",
@@ -1038,8 +1038,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how important are anniversaries to you?",
@@ -1054,8 +1054,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy giving romantic gifts?",
@@ -1070,8 +1070,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you consider your partner?",
@@ -1086,8 +1086,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy romantic dinners?",
@@ -1102,8 +1102,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you compliment your partner?",
@@ -1118,8 +1118,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you think your relationship is?",
@@ -1134,8 +1134,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy planning romantic getaways?",
@@ -1150,8 +1150,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you engage in romantic activities?",
@@ -1166,8 +1166,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you appreciate romantic gestures from your partner?",
@@ -1182,8 +1182,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you consider your partner to be?",
@@ -1198,8 +1198,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how important are romantic dates to you?",
@@ -1214,8 +1214,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much effort do you think your partner puts into romance?",
@@ -1230,8 +1230,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you plan romantic dates?",
@@ -1246,8 +1246,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy celebrating anniversaries?",
@@ -1262,8 +1262,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you think about romantic gestures?",
@@ -1278,8 +1278,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy romantic surprises?",
@@ -1294,8 +1294,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you think your partner is?",
@@ -1310,8 +1310,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much effort do you put into planning romantic activities?",
@@ -1326,8 +1326,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how important are romantic gestures to you?",
@@ -1342,8 +1342,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you appreciate romantic gifts?",
@@ -1358,8 +1358,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you think about romance?",
@@ -1374,8 +1374,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much do you enjoy romantic getaways?",
@@ -1390,8 +1390,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how romantic do you think your relationship is?",
@@ -1406,8 +1406,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how much effort do you put into keeping the romance alive?",
@@ -1422,8 +1422,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how often do you plan romantic surprises?",
@@ -1438,8 +1438,8 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rating Scale",
       "question": "On a scale from 1 to 10, how important are romantic words to you?",
@@ -1454,760 +1454,760 @@
         "8",
         "9",
         "10"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in love at first sight.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy planning surprise dates for my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think expressing love through gifts is important.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I prefer romantic getaways over regular vacations.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe small romantic gestures are more meaningful than grand ones.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in celebrating anniversaries in a special way.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy receiving flowers as a romantic gesture.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in expressing love through physical touch.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy romantic movie nights with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think it's important to show affection in public.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in the power of romantic words.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy planning romantic dinners for my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think it's important to make time for romance.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in the magic of romantic moments.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy doing romantic things for my partner just because.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think romance is an important part of a healthy relationship.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in the importance of saying 'I love you' often.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy romantic walks with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in celebrating Valentine's Day with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think it's important to keep the romance alive.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy planning romantic weekends away.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I like to create romantic experiences for my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy giving my partner thoughtful compliments.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe that small romantic gestures are important.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy romantic evenings with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in celebrating our relationship with romantic gestures.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy listening to romantic music with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in showing my partner how much I care through romantic gestures.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I like to plan romantic dates.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy romantic surprises from my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in the importance of quality time together.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think it's important to create romantic memories.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy planning romantic trips.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think romantic words are important.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in love notes.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy celebrating our love with special gestures.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think romance should be a regular part of our lives.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in surprising my partner with romantic activities.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy planning special surprises for my partner on their birthday.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think it's important to express love through words.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I like to create personalized gifts for my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I enjoy spending quality time with my partner.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I think romantic gestures should be frequent in a relationship.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "True/False",
       "question": "I believe in surprising my partner with thoughtful gifts.",
       "responses": [
         "True",
         "False"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you often write love notes or messages to your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy watching romantic movies with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in celebrating anniversaries in a special way?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you find it important to express your love verbally?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy receiving flowers as a romantic gesture?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning romantic getaways?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in love at first sight?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning surprise dates for your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think expressing love through gifts is important?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you prefer romantic getaways over regular vacations?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe small romantic gestures are more meaningful than grand ones?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in celebrating anniversaries in a special way?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy receiving flowers as a romantic gesture?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in expressing love through physical touch?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy romantic movie nights with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think it's important to show affection in public?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in the power of romantic words?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning romantic dinners for your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think it's important to make time for romance?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in the magic of romantic moments?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy doing romantic things for your partner just because?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think romance is an important part of a healthy relationship?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in the importance of saying 'I love you' often?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy romantic walks with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in celebrating Valentine's Day with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think it's important to keep the romance alive?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning romantic weekends away?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you like to create romantic experiences for your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy giving your partner thoughtful compliments?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe that small romantic gestures are important?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy romantic evenings with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in celebrating our relationship with romantic gestures?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy listening to romantic music with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in showing your partner how much you care through romantic gestures?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you like to plan romantic dates?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy romantic surprises from your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in the importance of quality time together?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think it's important to create romantic memories?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning romantic trips?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think romantic words are important?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in love notes?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy celebrating your love with special gestures?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think romance should be a regular part of your life?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in surprising your partner with romantic activities?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy planning special surprises for your partner on their birthday?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think it's important to express love through words?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you like to create personalized gifts for your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you enjoy spending quality time with your partner?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you think romantic gestures should be frequent in a relationship?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Yes/No",
       "question": "Do you believe in surprising your partner with thoughtful gifts?",
       "responses": [
         "Yes",
         "No"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: giving flowers, cooking a meal, writing a poem, planning a surprise trip.",
@@ -2216,8 +2216,8 @@
         "Cooking a meal",
         "Writing a poem",
         "Planning a surprise trip"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: stargazing, candlelight dinner, picnic, cooking together.",
@@ -2226,8 +2226,8 @@
         "Candlelight dinner",
         "Picnic",
         "Cooking together"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: love letters, personalized gifts, jewelry, flowers.",
@@ -2236,8 +2236,8 @@
         "Personalized gifts",
         "Jewelry",
         "Flowers"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: beach vacation, mountain retreat, city tour, countryside stay.",
@@ -2246,8 +2246,8 @@
         "Mountain retreat",
         "City tour",
         "Countryside stay"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: verbal affirmations, physical touch, acts of service, receiving gifts.",
@@ -2256,8 +2256,8 @@
         "Physical touch",
         "Acts of service",
         "Receiving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: planning a surprise date, writing a love letter, giving a thoughtful gift, saying 'I love you'.",
@@ -2266,8 +2266,8 @@
         "Writing a love letter",
         "Giving a thoughtful gift",
         "Saying 'I love you'"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: dancing together, watching a romantic movie, having a candlelit dinner, going for a walk.",
@@ -2276,8 +2276,8 @@
         "Watching a romantic movie",
         "Having a candlelit dinner",
         "Going for a walk"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: a handwritten love letter, a surprise date, unexpected flowers, a small thoughtful gift.",
@@ -2286,8 +2286,8 @@
         "A surprise date",
         "Unexpected flowers",
         "A small thoughtful gift"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: a tropical island, a European city, a mountain retreat, a countryside cottage.",
@@ -2296,8 +2296,8 @@
         "A European city",
         "A mountain retreat",
         "A countryside cottage"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: physical touch, words of affirmation, acts of service, giving gifts.",
@@ -2306,8 +2306,8 @@
         "Words of affirmation",
         "Acts of service",
         "Giving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: stargazing, watching the sunset, having a picnic, taking a walk.",
@@ -2316,8 +2316,8 @@
         "Watching the sunset",
         "Having a picnic",
         "Taking a walk"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: giving flowers, cooking a meal, writing a love note, planning a surprise trip.",
@@ -2326,8 +2326,8 @@
         "Cooking a meal",
         "Writing a love note",
         "Planning a surprise trip"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: candlelit dinners, romantic walks, couples massages, watching the sunset.",
@@ -2336,8 +2336,8 @@
         "Romantic walks",
         "Couples massages",
         "Watching the sunset"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: love letters, personalized gifts, jewelry, flowers.",
@@ -2346,8 +2346,8 @@
         "Personalized gifts",
         "Jewelry",
         "Flowers"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: beach vacation, mountain retreat, city tour, countryside stay.",
@@ -2356,8 +2356,8 @@
         "Mountain retreat",
         "City tour",
         "Countryside stay"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: verbal affirmations, physical touch, acts of service, receiving gifts.",
@@ -2366,8 +2366,8 @@
         "Physical touch",
         "Acts of service",
         "Receiving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: planning a surprise date, writing a love letter, giving a thoughtful gift, saying 'I love you'.",
@@ -2376,8 +2376,8 @@
         "Writing a love letter",
         "Giving a thoughtful gift",
         "Saying 'I love you'"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: dancing together, watching a romantic movie, having a candlelit dinner, going for a walk.",
@@ -2386,8 +2386,8 @@
         "Watching a romantic movie",
         "Having a candlelit dinner",
         "Going for a walk"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: a handwritten love letter, a surprise date, unexpected flowers, a small thoughtful gift.",
@@ -2396,8 +2396,8 @@
         "A surprise date",
         "Unexpected flowers",
         "A small thoughtful gift"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: a tropical island, a European city, a mountain retreat, a countryside cottage.",
@@ -2406,8 +2406,8 @@
         "A European city",
         "A mountain retreat",
         "A countryside cottage"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: physical touch, words of affirmation, acts of service, giving gifts.",
@@ -2416,8 +2416,8 @@
         "Words of affirmation",
         "Acts of service",
         "Giving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: stargazing, watching the sunset, having a picnic, taking a walk.",
@@ -2426,8 +2426,8 @@
         "Watching the sunset",
         "Having a picnic",
         "Taking a walk"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: giving flowers, cooking a meal, writing a love note, planning a surprise trip.",
@@ -2436,8 +2436,8 @@
         "Cooking a meal",
         "Writing a love note",
         "Planning a surprise trip"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: candlelit dinners, romantic walks, couples massages, watching the sunset.",
@@ -2446,8 +2446,8 @@
         "Romantic walks",
         "Couples massages",
         "Watching the sunset"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: love letters, personalized gifts, jewelry, flowers.",
@@ -2456,8 +2456,8 @@
         "Personalized gifts",
         "Jewelry",
         "Flowers"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: beach vacation, mountain retreat, city tour, countryside stay.",
@@ -2466,8 +2466,8 @@
         "Mountain retreat",
         "City tour",
         "Countryside stay"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: verbal affirmations, physical touch, acts of service, receiving gifts.",
@@ -2476,8 +2476,8 @@
         "Physical touch",
         "Acts of service",
         "Receiving gifts"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gestures from most to least romantic: planning a surprise date, writing a love letter, giving a thoughtful gift, saying 'I love you'.",
@@ -2486,8 +2486,8 @@
         "Writing a love letter",
         "Giving a thoughtful gift",
         "Saying 'I love you'"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic activities from most to least enjoyable: dancing together, watching a romantic movie, having a candlelit dinner, going for a walk.",
@@ -2496,8 +2496,8 @@
         "Watching a romantic movie",
         "Having a candlelit dinner",
         "Going for a walk"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic gifts from most to least meaningful: a handwritten love letter, a surprise date, unexpected flowers, a small thoughtful gift.",
@@ -2506,8 +2506,8 @@
         "A surprise date",
         "Unexpected flowers",
         "A small thoughtful gift"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic getaways from most to least appealing: a tropical island, a European city, a mountain retreat, a countryside cottage.",
@@ -2516,8 +2516,8 @@
         "A European city",
         "A mountain retreat",
         "A countryside cottage"
-      ]
-    },
+      ],
+      "weight": ""},
     {
       "type": "Rank Order",
       "question": "Rank the following romantic expressions from most to least appreciated: physical touch, words of affirmation, acts of service, giving gifts.",
@@ -2526,7 +2526,8 @@
         "Words of affirmation",
         "Acts of service",
         "Giving gifts"
-      ]
+      ],
+      "weight": ""
     }
   ]
 }
