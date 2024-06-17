@@ -5,7 +5,7 @@ let totalCards = 0;
 let totalPages = 0;
 let questions = [];
 let ratings = JSON.parse(localStorage.getItem('ratings')) || {};
-let userName = '';
+
 let cache = {};  // Add a cache object to store the fetched data
 
 document.getElementById('cards-per-page').addEventListener('change', function() {
@@ -13,25 +13,15 @@ document.getElementById('cards-per-page').addEventListener('change', function() 
 });
 
 document.getElementById('start-button').addEventListener('click', startQuiz);
-document.getElementById('user-name').addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') {
-        e.preventDefault();
-        startQuiz();
-    }
-});
+
 document.getElementById('prev-button').addEventListener('click', () => changePage(-1));
 document.getElementById('next-button').addEventListener('click', () => changePage(1));
 
 async function startQuiz() {
-    userName = document.getElementById('user-name').value;
-    if (userName) {
-        console.log('Starting quiz for user:', userName);
-        document.getElementById('name-container').classList.add('d-none');
-        document.getElementById('quiz-container').classList.remove('d-none');
-        await loadJsonFiles();
-    } else {
-        alert('Please enter your name.');
-    }
+    console.log('Starting quiz.');
+    document.getElementById('name-container').classList.add('d-none');
+    document.getElementById('quiz-container').classList.remove('d-none');
+    await loadJsonFiles();
 }
 
 function changePage(delta) {

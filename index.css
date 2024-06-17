@@ -34,9 +34,10 @@ body {
 }
 
 .star {
-  font-size: 2rem;
   cursor: pointer;
   margin: 0 0.2rem;
+  font-size: 2em;
+  color: #ddd;
 }
 
 .star:hover,
